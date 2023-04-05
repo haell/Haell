@@ -1,11 +1,15 @@
 
 <p align="center"><a href="https://haell.github.io">▫ ▪ ◽ ◾ ◻ ◼ ISRAEL ARAÚJO ◼ ◻ ◾ ◽ ▪ ▫</a></p>
-
+<br />
+<br />
 
 - 🔭 Hoje trabalho por conta própria
 - 🌱 Estou estudando Python e quando sobra tempo JavaScript
 - 👯 Aceito ajuda nos projetos que tenho disponiveis aqui no Github ¯\_(ツ)_/¯
 - 📣 Procuro um oportunidade para trabalhar com Python, JavaScrip, HTML/CSS e etc.
+
+<br />
+<br />
 
 <div>
 <p align="center">
