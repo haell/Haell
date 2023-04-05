@@ -1,5 +1,12 @@
 
 <p align="center"><a href="https://haell.github.io">▫ ▪ ◽ ◾ ◻ ◼ ISRAEL ARAÚJO ◼ ◻ ◾ ◽ ▪ ▫</a></p>
+
+
+- 🔭 Hoje trabalho por conta própria
+- 🌱 Estou estudando Python e quando sobra tempo JavaScript
+- 👯 Aceito ajuda nos projetos que tenho disponiveis aqui no Github ¯\_(ツ)_/¯
+- 📣 Procuro um oportunidade para trabalhar com Python, JavaScrip, HTML/CSS e etc.
+
 <div>
 <p align="center">
     <a href="https://github.com/haell/github-readme-stats/actions">
@@ -18,13 +25,6 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/haell/github-readme-stats?color=0088ff" />
     </a>
 </div>
-    
-
-
-- 🔭 Hoje trabalho por conta própria
-- 🌱 Estou estudando Python e quando sobra tempo JavaScript
-- 👯 Aceito ajuda nos projetos que tenho disponiveis aqui no Github ¯\_(ツ)_/¯
-- 📣 Procuro um oportunidade para trabalhar com Python, JavaScrip, HTML/CSS e etc.
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haell&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
