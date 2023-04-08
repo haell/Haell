@@ -8,33 +8,7 @@
 - 🔭 Hoje trabalho por conta própria
 - 🌱 Estou estudando Python e quando sobra tempo JavaScript
 - 👯 Aceito ajuda nos projetos que tenho disponiveis aqui no Github ¯\\_(ツ)_/¯
-- 📣 Procuro uma oportunidade para trabalhar com Python, JavaScrip, HTML/CSS e etc.
-
-<br />
-<br />
-
-<div>
-<p align="center">
-    <a href="https://github.com/haell/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/haell/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/haell/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/haell/github-readme-stats">
-      <img src="https://codecov.io/gh/haell/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/haell/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/haell/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/haell/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/haell/github-readme-stats?color=0088ff" />
-    </a>
-</div>
-
-| <a href="https://github.com/haell/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haell's github stats" /></a> | <a href="https://github.com/haell/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haell&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+- <img align="center" alt="Haell-Python" height="30" width="40" src="https://camo.githubusercontent.com/ac80f01dc0a2adbb13f2fada72fc4cac36f9d0224313f4f6f0c48557ca26ae96/68747470733a2f2f656261636f6e6c696e652e636f6d2e62722f696d616765732f74696c64363533352d333036352d343236332d623833372d3632333136313335363633395f5f67697068792e676966" alt="gif animado"> <b>Procuro uma oportunidade para trabalhar com Python, JavaScrip, HTML/CSS e etc.</b>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Haell-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -43,7 +17,13 @@
   <img align="center" alt="Haell-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Haell-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Haell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Haell-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
 </div>
+<br />
+<br />
+
+| <a href="https://github.com/haell/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=haell&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Haell's github stats" /></a> | <a href="https://github.com/haell/github-readme-stats"><img align="center" autoplay="autoplay" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haell&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
   
   ##
  
