@@ -5,8 +5,8 @@
 
 <p><b>Sobre mim:</b></p>
 
-- 🔝 Gestor de trafego pago! 🚀📈
-- 🎯 Social Media Managers 📉
+- 🔝 Analista de dados 🚀📈
+- 🎯 DevOps Python 📉
 - 🌱 Estou estudando Python e JavaScript
 - 👯 Aceito ajuda nos projetos que tenho disponiveis aqui no Github ¯\\_(ツ)_/¯
 - <img align="center" alt="Haell-Python" height="30" width="40" src="https://camo.githubusercontent.com/ac80f01dc0a2adbb13f2fada72fc4cac36f9d0224313f4f6f0c48557ca26ae96/68747470733a2f2f656261636f6e6c696e652e636f6d2e62722f696d616765732f74696c64363533352d333036352d343236332d623833372d3632333136313335363633395f5f67697068792e676966" alt="gif animado"> <b>Procuro uma oportunidade para trabalhar com Python, JavaScrip, HTML/CSS e etc.</b>
